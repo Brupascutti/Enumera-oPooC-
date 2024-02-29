@@ -1,0 +1,15 @@
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\enumeração\enumeração\obj\Debug\net8.0\enumeração.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\enumeração\enumeração\obj\Debug\net8.0\enumeração.AssemblyInfoInputs.cache
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\enumeração\enumeração\obj\Debug\net8.0\enumeração.AssemblyInfo.cs
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\enumeração\enumeração\obj\Debug\net8.0\enumeração.csproj.CoreCompileInputs.cache
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\enumeração\enumeração\obj\Debug\net8.0\enumeração.sourcelink.json
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\enumeração\enumeração\bin\Debug\net8.0\enumeração.exe
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\enumeração\enumeração\bin\Debug\net8.0\enumeração.deps.json
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\enumeração\enumeração\bin\Debug\net8.0\enumeração.runtimeconfig.json
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\enumeração\enumeração\bin\Debug\net8.0\enumeração.dll
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\enumeração\enumeração\bin\Debug\net8.0\enumeração.pdb
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\enumeração\enumeração\obj\Debug\net8.0\enumeração.dll
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\enumeração\enumeração\obj\Debug\net8.0\refint\enumeração.dll
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\enumeração\enumeração\obj\Debug\net8.0\enumeração.pdb
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\enumeração\enumeração\obj\Debug\net8.0\enumeração.genruntimeconfig.cache
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\enumeração\enumeração\obj\Debug\net8.0\ref\enumeração.dll
